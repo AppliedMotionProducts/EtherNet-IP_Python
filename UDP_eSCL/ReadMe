@@ -1,5 +1,0 @@
-This example shows how to control motor using UDP port 7775 using eSCL faunctinality. 
-
-The motor moves both the direction for 5 seconds in this exampple. 
-
-Use Host Command Reference manual for different commands. 
